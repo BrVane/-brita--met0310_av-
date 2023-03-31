@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/-brita--met0310_av-/devel
+
+Name: vane_r2d2
+Description: Description of vane_r2d2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

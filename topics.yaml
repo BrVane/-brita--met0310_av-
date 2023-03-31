@@ -1,0 +1,6 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Scanning ROS bag file "demo.bag"
+# for the following topics:
+#    /obs1/gps/fix
+#    /diagnostics_agg
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

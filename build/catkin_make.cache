@@ -1,0 +1,2 @@
+beginner_tutorials:vane_r2d2
+-DCATKIN_DEVEL_PREFIX=/home/vboxuser/-brita--met0310_av-/devel -DCMAKE_INSTALL_PREFIX=/home/vboxuser/-brita--met0310_av-/install -G Unix Makefiles
